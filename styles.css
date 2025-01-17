@@ -8,7 +8,7 @@ body {
 
 #todo-container {
   background: rgb(201, 186, 237);
-  width: 325px;
+  width: 500px;
   margin: 0 auto;
   border: 5px solid #6d55c3;
   padding: 20px;
@@ -80,4 +80,3 @@ li {
   color: gray;
   border: 1px solid gray;
 }
-
